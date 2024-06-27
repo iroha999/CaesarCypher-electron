@@ -1,0 +1,12 @@
+{
+  "name": "caesar-cipher-tool",
+  "version": "1.0.0",
+  "description": "A simple Caesar cipher tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.1.0"
+  }
+}
